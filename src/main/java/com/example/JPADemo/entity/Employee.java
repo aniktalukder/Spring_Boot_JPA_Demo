@@ -1,7 +1,7 @@
 package com.example.JPADemo.entity;
 
 import java.util.Date;
-
+//Entity
 public class Employee {
 	
 	private int employee_id;
